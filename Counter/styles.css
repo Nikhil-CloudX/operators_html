@@ -1,0 +1,38 @@
+body{
+    background-color: lightblue;
+}
+
+h2{
+    color:crimson;
+    font-size: 50px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+    background-color: #007bff;
+    color: white;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #count {
+    font-size: 24px;
+    margin: 0 15px;
+  }
+  
